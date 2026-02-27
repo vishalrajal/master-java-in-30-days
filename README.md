@@ -38,9 +38,6 @@ Concepts Strengthened:
 Topics Covered:
 - if, if-else, if-else-if ladder
 - switch statement
-- Methods (with and without return type)
-- Method parameters
-- Boolean return type
 - Static methods
 - Scanner for user input
 
@@ -71,17 +68,17 @@ DSA-Java/
 │           ├── 01_VariablesDemo.java
 │           ├── 02_Operators.java
 │           ├── 03_Loops.java
-|	    ├── 04_Input.java
-|	    ├── 05_swap_practice.java
+|	        ├── 04_Input.java
+|	        ├── 05_swap_practice.java
 │           └── PracticeProblems.java
 |──Day02_Control flow
 |            ├── 00_conditionals.java
 |            ├── 01_modern_switch.java
-|            ├── 02_methods.java
-|            ├── 03_practice_odd_or_even.java
-|            ├── 04_practice_check_num.java
-|            ├── 05_practice_max_of_2.java
-|            ├── 06_practice_sq_Root.java
+|            ├── 02_OddorEven.java
+|            ├── 03_checkNum.java
+|            ├── 04_Maxof2.java
+|            └── 05_sqroot.java
+|         
 │
 ├── .gitignore
 └── README.md
