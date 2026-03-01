@@ -78,7 +78,13 @@ DSA-Java/
 |            ├── 03_checkNum.java
 |            ├── 04_Maxof2.java
 |            └── 05_sqroot.java
-|         
+|──Day03_arrays in java
+|            ├── 01_Array.java
+|            ├── 02_2D_array.java
+|            ├── 03_jagged_array.java
+|            ├── Jagged_practice.java
+|            ├── Jagged_practice2.java
+|            └── insertvaluein Array.java         
 │
 ├── .gitignore
 └── README.md
