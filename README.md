@@ -85,7 +85,12 @@ DSA-Java/
 |            ├── Jagged_practice.java
 |            ├── Jagged_practice2.java
 |            └── insertvaluein Array.java         
-│
+|──Day04_Strings in java
+|            ├── StringOperationsDemo.java
+|            ├── reverseString.java
+|            ├── StringBufferDemo.java
+|            └── StringBuilderDemo.java
+|
 ├── .gitignore
 └── README.md
 ```
@@ -113,9 +118,9 @@ DSA-Java/
 | Phase | Status |
 |-------|--------|
 | Day 1 – Java Basics | ✅ Completed |
-| Day 2 – Core DSA | ⏳ On Progress |
-| Day 3 – Advanced Topics | ⏳ Upcoming |
-| Day 4 –  | ⏳ Upcoming |
+| Day 2 – Conditionals in Java | ✅ Completed |
+| Day 3 – Array concepts in Java | ✅ Completed |
+| Day 4 – Strings in Java  | ✅ Completed |
 | Day 5 –  | ⏳ Upcoming |
 | Day 6 –  | ⏳ Upcoming |
 | Day 7 –  | ⏳ Upcoming |
