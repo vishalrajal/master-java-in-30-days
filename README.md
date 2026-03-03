@@ -57,6 +57,79 @@ Concepts Strengthened:
 - Optimization in prime number (O(√n))
 - Nested loops (for patterns)
 
+### ✅ Day 03 – Array concepts in Java
+
+Topics Covered:
+- Memory concept
+- Indexing
+- Fixed size
+- 1D arrays
+- 2D arrays
+- Jagged Arrays
+
+Practice Problems:
+1. Simple array operations
+2. Insert value in array
+3. Maximum of array elements
+
+Concepts Strengthened:
+- How arrays store data
+- Index-based access
+- Fixed size nature
+- Reverse array
+- Search element
+- Count frequency
+- Sort basics
+
+### ✅ Day 04 – Strings in java
+
+Topics Covered:
+- String
+- StringBuffer
+- StringBuilder
+- String methods
+- StringBuffer methods
+- StringBuilder methods
+
+Practice Problems:
+1. Palindrome program
+2. Add a character at particular Index
+3. String Reverse
+
+Concepts Strengthened:
+- Conditional flow control
+- Importance of order in if-else ladder
+- Difference between >, >=, ==
+- Method creation and calling
+- Return statement usage
+- Static vs non-static concept (basic understanding)
+- Optimization in prime number (O(√n))
+- Nested loops (for patterns)
+
+
+### ✅ Day 05 – Methods in java
+
+Topics Covered:
+- Static methods
+- Method creation
+- Parameter
+- Return types
+- Method Overloading
+
+Practice Problems:
+1. Student marks management system
+2. Bank management system
+
+Concepts Strengthened:
+- Modularity
+    Breaking programs into reusable parts
+- Method Structure
+- Parameters
+- Return types
+- Void vs non-void
+- Method overloading
+- Call by value
+- Scope of variables
 ---
 
 ## 📂 Folder Structure
@@ -91,6 +164,12 @@ DSA-Java/
 |            ├── StringBufferDemo.java
 |            └── StringBuilderDemo.java
 |
+|──Day05_Methods in java
+|            ├── StaticDemo.java
+|            ├── MethodDemo.java
+|            ├── MethodOverload.java
+|            ├──BankAccount.java
+|            └── Student.java.java
 ├── .gitignore
 └── README.md
 ```
@@ -121,7 +200,7 @@ DSA-Java/
 | Day 2 – Conditionals in Java | ✅ Completed |
 | Day 3 – Array concepts in Java | ✅ Completed |
 | Day 4 – Strings in Java  | ✅ Completed |
-| Day 5 –  | ⏳ Upcoming |
+| Day 5 – Methods in Java | ✅ Completed |
 | Day 6 –  | ⏳ Upcoming |
 | Day 7 –  | ⏳ Upcoming |
 | Day 8 –  | ⏳ Upcoming |
