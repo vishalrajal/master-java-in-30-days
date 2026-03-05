@@ -131,6 +131,37 @@ Concepts Strengthened:
 - Call by value
 - Scope of variables
 ---
+### ✅ Day 06 – OOPs Concept Encapsulation in java
+
+Topics Covered:
+- Access Modifiers
+- Public, Private, Default Access Modifiers
+- Bank System 
+- Mini Atm System
+
+Practice Problems:
+1. Bank Management System
+2. Mini ATM Management System
+
+Concepts Strengthened:
+- Access Modifiers
+- Public, private, protected, default access modifiers
+- Encapsulation
+- Bank Management System 
+---
+### ✅ Day 07 – OOPs Concept practice in java
+
+Topics Covered:
+- OOPs
+- Access Modifiers
+- Inheritance
+
+Practice Problems:
+1. ATM Management System
+2. Library management system
+3. Student Management System
+
+---
 
 ## 📂 Folder Structure
 
@@ -176,6 +207,10 @@ DSA-Java/
 |            ├── ProtectedDemo.java
 |            ├── BankDemo.java
 |            └── MiniATM.java
+|──Day07_OOPs Practice in java
+|            ├── ATMDemo.java
+|            ├── LibrarySystem.java
+|            └── StudentManagement.java
 ├── .gitignore
 └── README.md
 ```
