@@ -1,3 +1,7 @@
+// Problem: Demonstrate a simple Bank class in Java with methods for deposit, withdrawal, and displaying balance.
+// Day: 06
+// Phase: Java OOP Concepts
+// Concepts: Class creation, instance variables, constructors, methods
 public class PrivateDemo {
     private int secretNumber;
     // Constructor to initialize the secret number

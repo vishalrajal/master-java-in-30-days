@@ -1,3 +1,8 @@
+// Problem: Demonstrate a simple Bank class in Java with methods for deposit, withdrawal, and displaying balance.
+// Day: 06
+// Phase: Java OOP Concepts
+// Concepts: Class creation, instance variables, constructors, methods
+
 import java.util.Scanner;
 
 public class MiniATM {

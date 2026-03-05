@@ -169,7 +169,13 @@ DSA-Java/
 |            ├── MethodDemo.java
 |            ├── MethodOverload.java
 |            ├──BankAccount.java
-|            └── Student.java.java
+|            └── Student.java
+|──Day06_OOPs in java
+|            ├── PublicDemo.java
+|            ├── PrivateDemo.java
+|            ├── ProtectedDemo.java
+|            ├── BankDemo.java
+|            └── MiniATM.java
 ├── .gitignore
 └── README.md
 ```
@@ -201,7 +207,7 @@ DSA-Java/
 | Day 3 – Array concepts in Java | ✅ Completed |
 | Day 4 – Strings in Java  | ✅ Completed |
 | Day 5 – Methods in Java | ✅ Completed |
-| Day 6 –  | ⏳ Upcoming |
+| Day 6 – OOPs Concepts in Java | ✅ Completed |
 | Day 7 –  | ⏳ Upcoming |
 | Day 8 –  | ⏳ Upcoming |
 | Day 9 –  | ⏳ Upcoming |
