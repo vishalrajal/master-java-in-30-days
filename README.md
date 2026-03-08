@@ -162,6 +162,25 @@ Practice Problems:
 3. Student Management System
 
 ---
+### ✅ Day 8 & 9 – Inheritance practice in java
+
+Topics Covered:
+- Inheritance
+- sub class, super class
+- Types of Inheritance
+    - Single Inheritance
+    - Multi level inheritance
+    - Hierarchical Inheritance
+    Multiple inheritance
+
+Practice Problems:
+1. Employee Demo - Single Inheritance
+2. Shape - Single Inheritance
+3. Vehicle - single inheritance
+4. Multi level Inheritance
+5. Hierarchical Demo
+
+---
 
 ## 📂 Folder Structure
 
@@ -211,6 +230,14 @@ DSA-Java/
 |            ├── ATMDemo.java
 |            ├── LibrarySystem.java
 |            └── StudentManagement.java
+|──Day8 & 9_Inheritance in java
+|            ├── VehiclePractice.java
+|            ├── ShapeDemo.java
+|            ├── MultilevelDemo.java
+|            ├── InheritDemo.java
+|            ├── EmployeeDemo.java
+|            ├── HierarchicalDemo.java
+|            └── Challenge.java
 ├── .gitignore
 └── README.md
 ```
@@ -243,9 +270,9 @@ DSA-Java/
 | Day 4 – Strings in Java  | ✅ Completed |
 | Day 5 – Methods in Java | ✅ Completed |
 | Day 6 – OOPs Concepts in Java | ✅ Completed |
-| Day 7 –  | ⏳ Upcoming |
-| Day 8 –  | ⏳ Upcoming |
-| Day 9 –  | ⏳ Upcoming |
+| Day 7 – OOPs Practice in Java  | ✅ Completed |
+| Day 8 – Inheritance in Java | ✅ Completed |
+| Day 9 – Inheritance practice in Java | ✅ Completed |
 | Day 10 –  | ⏳ Upcoming |
 
 ---
