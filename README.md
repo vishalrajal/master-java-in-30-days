@@ -1,6 +1,6 @@
-# 🚀 DSA in Java – 2026 Learning Journey
+# 🚀 Java – 2026 Learning Journey
 
-This repository contains my daily progress while learning **Data Structures & Algorithms using Java**.
+This repository contains my daily progress while learning **Java From Basics to Advance**.
 
 I am solving problems consistently and uploading my practice to track growth and improve problem-solving skills.
 
