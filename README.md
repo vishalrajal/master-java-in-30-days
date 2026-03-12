@@ -181,6 +181,69 @@ Practice Problems:
 5. Hierarchical Demo
 
 ---
+---
+### ✅ Day 10 – polymorphism in java
+
+Topics Covered:
+- polymorphism
+- Method Overloading
+- Method Overriding
+- Dynamic Method Dispatch
+
+Practice Problems:
+1. Area calculation of differebt shapes
+2. Employee salary system
+3. MethodOverriding
+4. MethodOverloading
+5. Dynamic method dispatch
+
+---
+---
+### ✅ Day 11 – Abstraction in java
+
+Topics Covered:
+- Abstraction
+- multiple Abstraction
+
+Practice Problems:
+1. BankDemo
+2. Calculator
+3. Payment system
+4. Vehicle demo
+5. Employee demo
+
+---
+---
+### ✅ Day 12 – Interface in java
+
+Topics Covered:
+- Interface
+- Default Interface
+- Multiple Interface
+
+Practice Problems:
+1. Calculator demo
+2. Default interface demo
+3. Default Override
+4. Interface demo
+5. Multiple interface demo
+6. payment demo
+7. shape demo
+
+---
+---
+### ✅ Day 13 – Encapsulation in java
+
+Topics Covered:
+- Encapsulation
+- getter, setter
+
+Practice Problems:
+1. Employee Demo
+2. BankAccount
+3. Student
+---
+
 
 ## 📂 Folder Structure
 
@@ -238,6 +301,30 @@ DSA-Java/
 |            ├── EmployeeDemo.java
 |            ├── HierarchicalDemo.java
 |            └── Challenge.java
+|──Day_10_Polymorphism in java
+|            ├── Areacalc.java
+|            ├── EmployeeSalary.java
+|            ├── MethodOverride.java
+|            ├── MethodOl.java
+|            └── DynamicMethodDispatch.java
+|──Day_11_Abstraction in java
+|            ├── BankDemo.java
+|            ├── Calc.java
+|            ├── EmployeeDemo.java
+|            ├── Payment.java
+|            └── VehicleDemo.java
+|──Day_12_Interface in java
+|            ├── CalculatorDemo.java
+|            ├── DefaultDemo.java
+|            ├── DefaultOverride.java
+|            ├── InterfaceDemo.java
+|            ├── MultipleInterfaceDemo.java
+|            ├── PaymentDemo.java
+|            └── ShapeDemo.java
+|──Day_13_Encapsulation in java
+|            ├── Student.java
+|            ├── BankAccount.java
+|            └── Employee.java
 ├── .gitignore
 └── README.md
 ```
@@ -273,7 +360,10 @@ DSA-Java/
 | Day 7 – OOPs Practice in Java  | ✅ Completed |
 | Day 8 – Inheritance in Java | ✅ Completed |
 | Day 9 – Inheritance practice in Java | ✅ Completed |
-| Day 10 –  | ⏳ Upcoming |
+| Day 10 – Polymorphism in Java | ✅ Completed |
+| Day 11 – Abstraction in java | ✅ Completed |
+| Day 12 – Interface in Java | ✅ Completed |
+| Day 13 – Encapsulation in Java | ✅ Completed |
 
 ---
 
