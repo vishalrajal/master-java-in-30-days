@@ -243,12 +243,26 @@ Practice Problems:
 2. BankAccount
 3. Student
 ---
+### ✅ Day 13 – Encapsulation in java
+
+Topics Covered:
+- Default Constructor
+- Parameterized Constructor
+- Constructor Overloading
+- Constructor Chaining
+
+Practice Problems:
+1. DefConstructor
+2. ParamConstructor
+3. ConstructorOverloadDemo
+4. ConstructorChainingDemo
+---
 
 
 ## 📂 Folder Structure
 
 ```
-DSA-Java/
+Master_Java_in_30_days/
 │
 ├── Day-01_JAVA_Basics/
 │           ├── 01_VariablesDemo.java
@@ -325,6 +339,11 @@ DSA-Java/
 |            ├── Student.java
 |            ├── BankAccount.java
 |            └── Employee.java
+|──Day_14_Constructors in java
+|            ├── DefConstructor.java
+|            ├── ParamConstructor.java
+|            ├── ConstructorOverloadDemo.java
+|            └── ConstructorChainingDemo.java
 ├── .gitignore
 └── README.md
 ```
@@ -364,6 +383,8 @@ DSA-Java/
 | Day 11 – Abstraction in java | ✅ Completed |
 | Day 12 – Interface in Java | ✅ Completed |
 | Day 13 – Encapsulation in Java | ✅ Completed |
+| Day 14 – Constructors in Java | ✅ Completed |
+
 
 ---
 
@@ -375,4 +396,4 @@ Daily practice. Continuous improvement.
 ---
 
 ### 📌 Author
-Learning & building discipline through DSA 💪
+Learning & building discipline through Java Practice 💪
