@@ -243,7 +243,7 @@ Practice Problems:
 2. BankAccount
 3. Student
 ---
-### ✅ Day 13 – Encapsulation in java
+### ✅ Day 14 – Constructors in java
 
 Topics Covered:
 - Default Constructor
