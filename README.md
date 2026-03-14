@@ -257,7 +257,23 @@ Practice Problems:
 3. ConstructorOverloadDemo
 4. ConstructorChainingDemo
 ---
+### ✅ Day 15 – Exception Handling in java
 
+Topics Covered:
+- Exceptions in java
+- Try, Catch blocks
+- Multiple catch blocks
+- Finally block
+- Throw keyword
+- Throws Keyword
+
+Practice Problems:
+1. basic try catch
+2. Multiple catch
+3. Finally Demo
+4. closing scanner
+5. Throw and throws
+---
 
 ## 📂 Folder Structure
 
@@ -344,6 +360,14 @@ Master_Java_in_30_days/
 |            ├── ParamConstructor.java
 |            ├── ConstructorOverloadDemo.java
 |            └── ConstructorChainingDemo.java
+|──Day_15_Exception Handling in java
+|            ├── ExceptionDemo.java
+|            ├── MulticatchDemo.java
+|            ├── MultiCatchDemo2.java
+|            ├── FinallyDemo.java
+|            ├── ClosingScanner.java
+|            ├── ThrowDemo.java
+|            └── ThrowsDemo.java 
 ├── .gitignore
 └── README.md
 ```
@@ -384,6 +408,7 @@ Master_Java_in_30_days/
 | Day 12 – Interface in Java | ✅ Completed |
 | Day 13 – Encapsulation in Java | ✅ Completed |
 | Day 14 – Constructors in Java | ✅ Completed |
+| Day 15 – Exception Handling in Java | ✅ Completed |
 
 
 ---
